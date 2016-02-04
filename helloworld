@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Bonjour ! Vous êtes dans un conteneur..."
+echo "Allez, on retourne sur la conférence..."
+echo "----"
+echo "Le slide de la conférence est disponible ici !"
+echo "http://slides.com/hipsterwhale/docker#/"
